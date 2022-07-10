@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/NmmUoxTjpj0CDGm1Qj/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/taylor-ferguson-57826660/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> -->
+    
   </a>
   </div>
   
