@@ -46,5 +46,3 @@ I'm a Web Developer, Product Manager, and Technical Writer from Los Angeles, CA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorjalpha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
