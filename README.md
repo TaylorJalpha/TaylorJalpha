@@ -12,7 +12,7 @@
 
 ### About Me :
 
-I'm a Web Developer, Product Manager, and Technical Writer from Los Angeles, CA
+I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles, CA
 
 - :microscope: I work as a Web Developer(web2) & Product Manager for a multiple projects(web3), and formerly a PM for web2 saas companies (b2b + b2c), primarily - My goal is to pivot away from product to focus on dev, indeally within a high-growth startup while continuing to refine my product and management skills 
 
@@ -20,7 +20,11 @@ I'm a Web Developer, Product Manager, and Technical Writer from Los Angeles, CA
 
 - :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
 
-- :pager: Let's connect!: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-ferguson-57826660/) 
+- :pager: Let's connect!: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
+&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/taylorJalpha)
+
+
+
 
 
 ---
