@@ -1,13 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NmmUoxTjpj0CDGm1Qj/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
 </div>
 
-<!-- <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/taylor-ferguson-57826660/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> -->
     
-  </a>
-  </div>
   
 <h1 align="center">
   Hello, I'm Taylor 
@@ -21,11 +16,12 @@ I'm a Web Developer, Product Manager, and Technical Writer from Los Angeles, CA
 
 - :microscope: I work as a Web Developer(web2) & Product Manager for a multiple projects(web3), and formerly a PM for web2 saas companies (b2b + b2c), primarily - My goal is to pivot away from product to focus on dev, indeally within a high-growth startup while continuing to refine my product and management skills 
 
-- :memo: During my freetime I freelance as a Technical Writer - goal: refine writing skills to support content-strategies and content creation
+- :memo: During my freetime I freelance as a Technical Writer - :rocket: <b>Goal:</b> refine writing skills to support content-strategies and content creation
 
 - :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
 
-- :pager: Let's connect!: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-ferguson-57826660/)
+- :pager: Let's connect!: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-ferguson-57826660/) 
+
 
 ---
 
