@@ -16,7 +16,7 @@
 
 ### About Me :
 
-I am a Web Developer, Product Manager, and Technical Writer from Los Angeles.
+I'm a Web Developer, Product Manager, and Technical Writer from Los Angeles.
 
 - :microscope: I work as a Web Developer(web2) & Product Manager for a multiple projects(web3), and formerly a PM for web2 sass companies, primarily - My goal is to pivot away from product to focus on dev, indeally within a high-growth startup while continuing to refine my product and management skills 
 
