@@ -18,7 +18,7 @@ I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles,
 
 - :pager: Let's connect!: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/taylorJalpha)
-- :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS, Heroku 
+- :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
 ---
 
 ### :musical_score: Tech Used :
