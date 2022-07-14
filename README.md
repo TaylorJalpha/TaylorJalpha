@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
-</div>
+
   
 <h1 align="center">
   Hello, I'm Taylor 
@@ -8,17 +6,16 @@
 
 ### About Me :
 
-I'm a Web Developer, Product Manager, and Technical Writer based in Los Angeles, CA
-
-- :microscope: I work as a Web Developer(web2) & Product Manager for a multiple projects(web3), and formerly a PM for web2 saas companies (b2b + b2c), primarily
+- :microscope: Web Developer, Product Manager, and Technical Writer based in Los Angeles, CA
 
 - :memo: During my freetime I freelance as a Technical Writer - :rocket: <b>Goal:</b> refine writing skills to support content-strategies and content creation
 
 - :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
 
+- :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
+
 - :pager: Let's connect!: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/taylorJalpha)
-- :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
 ---
 
 ### :musical_score: Tech Used :
