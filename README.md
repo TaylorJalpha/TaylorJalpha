@@ -6,7 +6,7 @@
 
 ### About Me :
 
-- :microscope: Web Developer, Product Manager, and Technical Writer based in Los Angeles, CA
+- :microscope: Web Developer (front-end and web-design-focused), Product Manager, and Technical Writer based in Los Angeles, CA 
 
 - :memo: During my freetime I freelance as a Technical Writer - :rocket: <b>Goal:</b> refine writing skills to support content-strategies and content creation
 
