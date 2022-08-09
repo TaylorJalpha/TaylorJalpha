@@ -8,7 +8,6 @@
 
 - :microscope: Web Developer (front-end and web-design-focused), Product Manager, and Technical Writer based in Los Angeles, CA 
 
-- :boat: TwoSteppeDigitail core team! - we're a group of highly effective Engineers, Designs, and Product Managers that have built and maintained multiple highly sucessful projects and compaines in both web2 and web3 
 
 - :memo: During my freetime I freelance as a Technical Writer - :rocket: <b>Goal:</b> refine writing skills to support content-strategies and content creation
 
