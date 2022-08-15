@@ -8,9 +8,6 @@
 
 - :microscope: Web Developer (front-end and web-design-focused), Product Manager, and Technical Writer based in Los Angeles, CA 
 
-
-- :memo: During my freetime I freelance as a Technical Writer - :rocket: <b>Goal:</b> refine writing skills to support content-strategies and content creation
-
 - :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
 
 - :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
