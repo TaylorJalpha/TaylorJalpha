@@ -6,7 +6,7 @@
 
 ### About Me :
 
-- :microscope: Web Developer (front-end and web-design-focused), Product Manager, and Technical Writer based in Los Angeles, CA 
+- :microscope: Web Developer , Product Manager, and Technical Writer based in Los Angeles, CA 
 
 - :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
 
