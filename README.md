@@ -6,9 +6,6 @@
 
 ### About Me :
 
-- :microscope: Product Manager(PMC), Jr-level Web Dev, and Writer based in Los Angeles, CA 
-
-- :sunrise_over_mountains: When I'm not working, I explore the mtns, ride bikes and run/hike trails
 
 - :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
 
