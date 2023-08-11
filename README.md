@@ -6,7 +6,7 @@
 
 ### About Me :
 
-#### Currently working as an Insurance Agent as I re-align my long-term goals, and continue working on side projects in tech/ business ventures🙏 
+#### ✅ Currently working as an Insurance Agent as I re-align my long-term goals, and continue working on side projects in tech/ business ventures🙏 
 
 - :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
 
