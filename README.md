@@ -20,10 +20,13 @@
 
 
 
-- :ship: [Taylorferguson.xyz](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
+- :ship: [Taylorferguson.xyz](https://portfolio.TaylorFerguson.xyz) 🛠️ Ruby on Rails, JS,Bootstrap, SCSS, and Heroku 
 
-- :pager: Let's connect!: [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
+- :pager: Let's connect!: [![](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
+
+- :atom_symbol: Personal Blog: [![](https://i.stack.imgur.com/gVE0j.png) EconomyBlocked](https://www.economyblocked.com/terms/token-engineering) ⬅️ Currently parked 
 &nbsp;
+
 
 
 ---
