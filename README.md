@@ -1,16 +1,28 @@
 
   
 <h1 align="center">
-  Hello, I'm Taylor 
+  Hello Friend, I'm Taylor J Ferguson
 </h1>
 
-### About Me :
+## 🌄 About me 
+
+<p>
+  As an experienced generalist Product Manager (PMC), Web Dev, and Software Biz Dev, I can bridge the gap between technical, design, and business teams. Throughout my career, I've been building web applications—either through consulting, side projects or to support the teams I've led as a PM. Through this experience, I have gained a solid foundation in product and business strategy and technical execution. <b>Hypothesis-based and data-driven.</b>
+</p>
+
+<p>
+  My consulting work and current market conditions have forced me to improve my technical skills, especially Ruby on Rails for backend development and JavaScript for frontend development, to control my professional outcomes and ensure employability. As the tech landscape rapidly evolves, my web development expertise will be a valuable asset for driving successful product management-based initiatives and unlocking new business opportunities.
+</p>
 
 
 
-- :ship: [Portfolio-website V2.0](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
+### Prosper world 🌍 🖖:
 
-- :pager: Let's connect!: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
+
+
+- :ship: [Taylorferguson.xyz](https://portfolio.TaylorFerguson.xyz)–Ruby on Rails, JS,SCSS, Heroku 
+
+- :pager: Let's connect!: [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 &nbsp;
 
 
@@ -23,7 +35,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
