@@ -7,7 +7,7 @@
 ## 🌄 About me 
 
 <p>
-  As an experienced generalist Product Manager (PMC), Web Dev, and Software Biz Dev, I can bridge the gap between technical, design, and business teams. Throughout my career, I've been building web applications—either through consulting, side projects or to support the teams I've led as a PM. Through this experience, I have gained a solid foundation in product and business strategy and technical execution. <b>Hypothesis-based and data-driven.</b>
+  As an experienced generalist Product Manager (PMC), Web Dev, and Software Biz Dev, I can bridge the gap between technical, design, and business teams. Throughout my career, I've been building web applications. Either through consulting, side projects or to support the teams I've led as a PM. Through this experience, I have gained a solid foundation in product and business strategy and technical execution. <b>Hypothesis-based and data-driven.</b>
 </p>
 
 <p>
