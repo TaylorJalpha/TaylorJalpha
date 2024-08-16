@@ -1,13 +1,13 @@
 
   
 <h1 align="center">
-  Hello Friend, I'm Taylor J Ferguson
+  Hello _Friend, I'm Taylor J Ferguson
 </h1>
 
 ## 🌄 About me 
 
 <p>
-  As an experienced generalist Product Manager (PMC), Web Dev, and Software Biz Dev, I can bridge the gap between technical, design, and business teams. Throughout my career, I've been building web applications. Either through consulting, side projects or to support the teams I've led as a PM. Through this experience, I have gained a solid foundation in product and business strategy and technical execution. <b>Hypothesis-based and data-driven.</b>
+ As an experienced generalist <b>Product Manager (PMC)</b>, Web Dev, and Software Biz Dev, I can bridge the gap between technical, design, and business teams. Throughout my career, I've been building web applications. Either through consulting, side projects or to support the teams I've led as a Product Manager. This experience has equipped me with a deep understanding of technical execution, systems architecture, and the intricacies of leading high-performance engineering teams. My approach involves continuous learning, rapid feedback cycles, and test-driven product management. Hypothesis-based and data-driven decision-making....</b> 
 </p>
 
 <p>
@@ -20,7 +20,7 @@
 
 
 
-- :ship: [Taylorferguson.xyz](https://portfolio.TaylorFerguson.xyz) 🛠️ Ruby on Rails, JS,Bootstrap, SCSS, and Heroku 
+- :ship: [Taylorferguson.xyz](https://portfolio.TaylorFerguson.xyz) 
 
 - :pager: Let's connect!: [![](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 
@@ -39,7 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorjalpha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
