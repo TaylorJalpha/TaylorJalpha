@@ -1,7 +1,7 @@
 
   
 <h1 align="center">
-  Hello _Friend, I'm Taylor J Ferguson
+  Hello, I'm Taylor J Ferguson
 </h1>
 
 ## 🌄 About me 
