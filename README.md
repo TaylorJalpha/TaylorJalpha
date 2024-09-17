@@ -25,19 +25,6 @@ My robust technical background enhances my product management capabilities:
 - Cloud Architecture: Pursuing AWS Solutions Architect Associate certification to leverage cloud technologies in product scaling and infrastructure decisions
 - Full-Stack Understanding: Ability to grasp entire application architectures and business logic, facilitating more informed product decisions and smoother collaboration with engineering teams
 
-### This technical expertise allows me to:
-
-- Communicate effectively with engineering teams, contributing meaningfully to technical discussions
-- Make informed decisions about product architecture and technical trade-offs
-- Rapidly prototype and validate product ideas
-- Stay ahead of emerging technologies and their potential impact on product development
-
-### Approach to Product Management
-
-- Test-driven product management: Emphasizing measurable outcomes and continuous validation
-- Systems thinking: Considering the broader impact of product decisions on the entire ecosystem
-- Agile adaptation: Quickly adjusting strategies based on market feedback and data insights
-- Business acumen: Aligning product initiatives with overall business goals and market opportunities
 
 ---
 
