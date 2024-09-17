@@ -23,7 +23,7 @@ My robust technical background enhances my product management capabilities:
 - Backend Development: Proficient in Ruby on Rails, enabling efficient API design and server-side logic implementation
 - Frontend Development: Currently expanding skills in Vue.js to better understand modern UI/UX development practices
 - Cloud Architecture: Pursuing AWS Solutions Architect Associate certification to leverage cloud technologies in product scaling and infrastructure decisions
-- Full-Stack Understanding: Ability to grasp entire application architectures, facilitating more informed product decisions and smoother collaboration with engineering teams
+- Full-Stack Understanding: Ability to grasp entire application architectures and business logic, facilitating more informed product decisions and smoother collaboration with engineering teams
 
 ### This technical expertise allows me to:
 
