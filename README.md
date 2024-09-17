@@ -4,8 +4,7 @@
   Hello, I'm Taylor Ferguson
 </h1>
 
-## 🌄 About me: Product & Strategy Leader with Technical Expertise
-
+## 🌄 About me: 
 
  <!-- ### Product Manager (PMC) with Full-Stack Development Experience -->
 
