@@ -7,7 +7,7 @@
 ## 🌄 About me: Product & Strategy Leader with Technical Expertise
 
 
-### Product Manager (PMC) with Full-Stack Development Experience
+ <!-- ### Product Manager (PMC) with Full-Stack Development Experience -->
 
 As a seasoned Product Manager (PMC) with a strong technical background, I excel at bridging the gap between product vision, user needs, and technical implementation. My unique blend of product management expertise and hands-on development experience enables me to:
 
@@ -38,6 +38,8 @@ My robust technical background enhances my product management capabilities:
 - Systems thinking: Considering the broader impact of product decisions on the entire ecosystem
 - Agile adaptation: Quickly adjusting strategies based on market feedback and data insights
 - Business acumen: Aligning product initiatives with overall business goals and market opportunities
+
+---
 
 
 ### Prosper world 🌍 🖖:
