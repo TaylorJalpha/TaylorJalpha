@@ -8,21 +8,22 @@
 
  <!-- ### Product Manager (PMC) with Full-Stack Development Experience -->
 
-As a seasoned Product Manager (PMC) with a strong technical background, I excel at bridging the gap between product vision, user needs, and technical implementation. My unique blend of product management expertise and hands-on development experience enables me to:
+As an experienced Product Manager with a solid technical foundation, I specialize in connecting product vision, user needs, and technical execution. My combination of product management skills and hands-on development experience allows me to:
 
-- Lead cross-functional teams effectively, fostering collaboration between technical, design, and business stakeholders
-- Drive product strategy with a deep understanding of both user needs and technical feasibility
-- Implement data-driven, hypothesis-based decision-making processes through rigorous product discovery and data analysis
-- Utilize agile methodologies and rapid feedback cycles for continuous product improvement
+- Lead cross-functional teams by fostering collaboration between technical, design, and business stakeholders across multiple verticals and business models
+- Shape product strategy with a deep understanding of both user needs and technical feasibility
+- Implement data-driven, hypothesis-based decision-making through thorough product discovery and analysis
+- Use agile methodologies, systems innovation, and rapid feedback cycles to drive continuous product improvement 
+
 
 ### Technical Proficiency
 
-- Backend Development: Proficient in Ruby on Rails, enabling efficient API design and server-side logic implementation
-- Frontend Development: Currently expanding skills in Vue.js to better understand modern UI/UX development practices
-- Cloud Architecture: Pursuing AWS Solutions Architect Associate certification to leverage cloud technologies in product scaling and infrastructure decisions
-- Full-Stack Understanding: Ability to grasp entire application architectures and business logic, facilitating more informed product decisions and smoother collaboration with eng teams
+- Backend Development: Proficient in Ruby on Rails 
+- Frontend Development: Currently expanding my skills in Vue.js to stay current with modern web dev practices
+- Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure
+- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with eng teams
 
-
+Open to a few roles: Product, Solutions Consultant, Biz Dev
 ---
 
 
