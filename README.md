@@ -23,7 +23,7 @@ As an experienced Product Manager with a solid technical foundation, I specializ
 - Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure
 - Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with eng teams
 
-Open to a few roles: Product, Solutions Consultant, Biz Dev
+
 ---
 
 
