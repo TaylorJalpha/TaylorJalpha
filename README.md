@@ -6,7 +6,7 @@
 
 ## 🌄 About me: 
 
-As an experienced Product Manager (PMC) with a solid technical foundation, I specialize in connecting product vision, user needs, and technical execution. 
+An experienced Product Manager (PMC) with a solid technical foundation and previously worked in Biz Dev for multiple outsourced software development companies. 
 
 - Lead cross-functional teams by promoting collaboration among technical, design, and business stakeholders across various industries and business models. These include blockchain-based dApps such as two-way marketplaces, gaming experiences, and Defi protocols. I have also supported a health-tech platform and fintech verticals, most recently
 - Shape product strategy with a deep understanding of both user needs and technical feasibility
