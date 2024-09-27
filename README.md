@@ -21,7 +21,7 @@ As an experienced Product Manager with a solid technical foundation, I specializ
 - Backend Development: Proficient in Ruby on Rails 
 - Frontend Development: Currently expanding my skills in Vue.js to stay current with modern web dev practices
 - Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure
-- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with eng teams
+- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG teams
 
 
 ---
