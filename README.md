@@ -10,7 +10,10 @@
 
 As an experienced Product Manager with a solid technical foundation, I specialize in connecting product vision, user needs, and technical execution. My combination of product management skills and hands-on development experience allows me to:
 
-- Lead cross-functional teams by fostering collaboration between technical, design, and business stakeholders across multiple verticals and business models
+- Lead cross-functional teams by fostering collaboration between technical, design, and business stakeholders across multiple verticals and business models - a wide scope
+of blockchain-based dApps including 2way marketplaces, gaming experiences, and Defi protocols , healthtech platform in the dental space, and fintech are the verticals I have supported as part of
+my efforts most recently.  
+
 - Shape product strategy with a deep understanding of both user needs and technical feasibility
 - Implement data-driven, hypothesis-based decision-making through thorough product discovery and analysis
 - Use agile methodologies, systems innovation, and rapid feedback cycles to drive continuous product improvement 
