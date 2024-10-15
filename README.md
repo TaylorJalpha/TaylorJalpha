@@ -11,20 +11,21 @@ An experienced Product Manager (PMC) with a solid technical foundation and previ
 
 ### Product Skills
 
-- Leading cross-functional teams, promoting collaboration among technical, design, and business stakeholders across various industries and business models: Fintech, blockchain, outsourced software dev, and health tech, most recently
-- Shape product strategy with a deep understanding of user needs, technical feasibility, and business logic
-- Implement data-driven and hypothesis-based decision-making through product discovery/ user research and data analysis
-- Use agile methodologies, systems innovation, and rapid feedback cycles to drive continuous product improvement
+- Led cross-functional teams, fostering collaboration between technical, design, and business stakeholders across diverse industries, including fintech, blockchain, outsourced software development, and health tech.
+- Shape product strategy by aligning user needs, technical feasibility, and business objectives.
+- Implement data-driven decision-making through product discovery, user research, and data analysis.
+- Drive continuous product improvement using agile methodologies, systems innovation, and rapid feedback loops.
+- Experienced in roadmapping, prioritization, process implementation, product analytics, product marketing, and go-to-market strategies.
 
 
 
 ### Technical Proficiency
 
-- Backend Development: Proficient in Ruby on Rails 
-- Frontend Development: Currently expanding my skills in Vue.js to stay current with modern web dev practices
-- Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure; Also have experience with Heroku 
-- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams'
-- Database: PostgreSQL and MySQL
+- Backend Development: Proficient in Ruby on Rails.
+- Frontend Development: Currently, I'm learning Vue.js to stay current with modern web dev practices.
+- Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure; Also have experience with Heroku.
+- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
+- Database: PostgreSQL and MySQL.
 - UI: Tailwind, Bootstrap, Radix UI, Shadcn, etc... 
 
 
