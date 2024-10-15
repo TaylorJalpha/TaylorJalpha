@@ -13,7 +13,7 @@ An experienced Product Manager (PMC) with a solid technical foundation and previ
 
 - Leading cross-functional teams, promoting collaboration among technical, design, and business stakeholders across various industries and business models: Fintech, blockchain, outsourced software dev, and health tech, most recently
 - Shape product strategy with a deep understanding of user needs, technical feasibility, and business logic
-- Implement data-driven and hypothesis-based decision-making through thorough product discovery/ user research and data analysis
+- Implement data-driven and hypothesis-based decision-making through product discovery/ user research and data analysis
 - Use agile methodologies, systems innovation, and rapid feedback cycles to drive continuous product improvement
 
 
