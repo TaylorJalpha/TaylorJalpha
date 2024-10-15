@@ -8,18 +8,24 @@
 
 An experienced Product Manager (PMC) with a solid technical foundation and previously worked in Biz Dev for multiple outsourced software development companies. 
 
-- Lead cross-functional teams by promoting collaboration among technical, design, and business stakeholders across various industries and business models. These include blockchain-based dApps such as two-way marketplaces, gaming experiences, and Defi protocols. I have also supported a health-tech platform and fintech verticals, most recently
-- Shape product strategy with a deep understanding of both user needs and technical feasibility
-- Implement data-driven, hypothesis-based decision-making through thorough product discovery and analysis
-- Use agile methodologies, systems innovation, and rapid feedback cycles to drive continuous product improvement 
+
+### Product Skills
+
+- Leading cross-functional teams, promoting collaboration among technical, design, and business stakeholders across various industries and business models: Fintech, blockchain, outsourced software dev, and health tech, most recently
+- Shape product strategy with a deep understanding of user needs, technical feasibility, and business logic
+- Implement data-driven and hypothesis-based decision-making through thorough product discovery/ user research and data analysis
+- Use agile methodologies, systems innovation, and rapid feedback cycles to drive continuous product improvement
+
 
 
 ### Technical Proficiency
 
 - Backend Development: Proficient in Ruby on Rails 
 - Frontend Development: Currently expanding my skills in Vue.js to stay current with modern web dev practices
-- Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure
-- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG teams
+- Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure; Also have experience with Heroku 
+- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams'
+- Database: PostgreSQL and MySQL
+- UI: Tailwind, Bootstrap, Radix UI, Shadcn, etc... 
 
 
 ---
