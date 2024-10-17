@@ -36,7 +36,7 @@ An experienced Product Manager (PMC) with a solid technical foundation and previ
 
 
 
-- :ship: [www.Taylorferguson.xyz](https://portfolio.TaylorFerguson.xyz) 
+- :ship: [Portfolio Website v3](https://main.d17wbcqv4g4amo.amplifyapp.com/) <- still need to configure DNS
 
 - :pager: Let's connect!: [![](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 
