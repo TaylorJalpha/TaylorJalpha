@@ -22,7 +22,7 @@ An experienced Product Manager (PMC) with a solid technical foundation and previ
 ### Technical Proficiency
 
 - Backend Development: Proficient in Ruby on Rails.
-- Frontend Development: Currently, I'm learning Vue.js to stay current with modern web dev practices.
+- Frontend Development: Currently learning Vue.js and improving my JS knowledge. 
 - Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure; Also have experience with Heroku.
 - Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
 - Database: PostgreSQL and MySQL.
