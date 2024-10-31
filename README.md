@@ -36,7 +36,7 @@ An experienced Product Manager (PMC) with a solid technical foundation and previ
 
 
 
-- :ship: [Portfolio Website v3](https://www.taylorferguson.xyz/) 
+- :ship: [Personal Website](https://www.taylorferguson.xyz/) 
 
 - :pager: Let's connect!: [![](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 
