@@ -32,7 +32,7 @@ An experienced Product Manager (PMC) with a solid technical foundation and previ
 ---
 
 
-### Prosper world 🌍 🖖:
+### Let's Connect! 🌍:
 
 
 
