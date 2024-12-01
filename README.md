@@ -6,8 +6,7 @@
 
 ## 🌄 About me: 
 
-An experienced Product Manager (PMC) with a solid technical foundation and previously worked in Biz Dev for multiple outsourced software development companies. 
-
+An experienced Product Manager (PMC) with a solid technical foundation
 
 ### Product Skills
 
