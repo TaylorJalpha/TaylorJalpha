@@ -6,7 +6,7 @@
 
 ## 🌄 About me: 
 
-An experienced Product Manager (PMC) with a solid technical foundation
+An experienced Product Manager (PMC) (PLC) with a solid technical foundation
 
 ### Product Skills
 
