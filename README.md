@@ -25,7 +25,7 @@ An experienced Product Manager (PMC) (PLC) with a solid technical foundation
 - Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure; Also have experience with Heroku.
 - Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
 - Database: PostgreSQL and MySQL.
-- API dev and testing: Postman, Open API, Stripe, Plaid, and Axios 
+- API dev and testing: Postman, Open API, API Gateway, Stripe, Plaid, and Axios 
 - UI: Tailwind, Bootstrap, Radix UI, Shadcn, etc... 
 
 
