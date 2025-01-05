@@ -20,12 +20,13 @@ An experienced Product Manager (PMC) (PLC) with a solid technical foundation
 
 ### Technical Proficiency
 
-- Backend Development: Proficient in Ruby on Rails.
-- Frontend Development: Currently learning Vue.js and improving my JS knowledge. 
-- Cloud Architecture: Working towards the AWS Solutions Architect –Associate certification to leverage cloud technologies for scaling and infrastructure; Also have experience with Heroku.
-- Full-Stack Understanding: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
+- Backend Development: Ruby on Rails.
+- Frontend Development: Currently learning VueJS and NuxtJS, experience across the most front-end frameworks - both as a manager and through my development efforts over the years.
+- Mobile Development: Experience with Dart/Flutter, and extensive management-based experience with native IOS/ Android.
+- Cloud Architecture: Actively pursuing the AWS Solutions Architect– Associate cert to validate and expand technical expertise in cloud architecture, with a focus on advanced cloud strategies for scaling and infrastructure. Several years of prior AWS experience and extensive knowledge of Heroku, Google GCP, and Microsoft Azure; Design and implement scalable, efficient, and reliable cloud solutions 
+- Full-Stack: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
 - Database: PostgreSQL and MySQL.
-- API dev and testing: Postman, Open API, API Gateway, Stripe, Plaid, and Axios 
+- API dev and testing: Postman, Open API, API Gateway, Stripe, Plaid, and Axios.
 - UI: Tailwind, Bootstrap, Radix UI, Shadcn, etc... 
 
 
