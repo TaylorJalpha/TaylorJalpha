@@ -1,35 +1,26 @@
 
   
 <h1 align="center">
-  Hello, I'm Taylor Ferguson
+  👋 Hello, I'm Taylor J. Ferguson!  
+  Product Manager | Strong Technical Foundation | Customer-obsessed
 </h1>
 
-## 🌄 About me: 
 
-An experienced Product Manager (PMC) (PLC) with a solid technical foundation
+## 🌄 About Me:
 
-### Product Skills
+ **Product Manager (PMC)(PLC)** with core web development experience, combining strategic thinking with technical knowledge. With a proven track record in leading cross-functional teams, I bridge the gap between business, design, and engineering stakeholders. 
 
-- Led cross-functional teams, fostering collaboration between technical, design, and business stakeholders across diverse industries, including fintech, blockchain, outsourced software development, and health tech.
-- Shape product strategy by aligning user needs, technical feasibility, and business objectives.
-- Expert-level design experience with a focus on Figma; UI/UX, prototyping, customer journey maps, and wireframes. 
-- Implement data-driven decision-making through product discovery, user research, and data analysis.
-- Drive continuous product improvement using agile methodologies, comms strategies, systems innovation, and rapid feedback loops.
-- Experienced in roadmapping, business modeling, pricing, unit economics, team development, prioritization, process implementation, product analytics, product marketing, and go-to-market strategies.
+### 🚀 Core Competencies:
+- **Product Strategy & Roadmapping:** Aligning user needs, business objectives, and technical feasibility- Rigorous prioritization. 
+- **UI/UX Design:** Expertise in Figma, prototyping, wireframing, and customer journey mapping.
+- **Agile Product Development:** Data-driven decision-making and continuous product improvement– Product discovery, user research, and data analysis.
+- **Cross-Functional Leadership:** Managing teams in diverse industries, focused on **FinTech, Blockchain, HealthTech,** and more.
 
-
-
-
-### Technical Proficiency
-
-- Backend Development: Ruby on Rails.
-- Frontend Development: Currently learning VueJS and NuxtJS and have experience across the most common front-end frameworks - both as a manager and through my development efforts over the years.
-- Mobile Development: Experience with Dart/Flutter, and extensive management-based experience with native IOS/ Android.
-- Cloud Architecture: Actively pursuing the AWS Solutions Architect– Associate cert to validate and expand technical expertise in cloud architecture, with a focus on advanced cloud strategies for scaling and infrastructure. Several years of prior AWS experience and extensive knowledge of Heroku, Google GCP, and Microsoft Azure; Design and implement scalable, efficient, and reliable cloud solutions. 
-- Full-Stack: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
-- Database: PostgreSQL and MySQL.
-- API dev and testing: Postman, Open API, API Gateway, Stripe, Plaid, and Axios.
-- UI: Tailwind, Bootstrap, Radix UI, Shadcn, etc... 
+### 💻 Technical Expertise:
+- **Backend:** Ruby on Rails
+- **Frontend:** VueJS, NuxtJS (Learning), and experience with multiple front-end frameworks.
+- **Mobile:** Dart/Flutter, Native iOS/Android management-based experience.
+- **Cloud:** AWS Solutions Architect- Associate (WIP), Heroku, GCP, Azure
 
 
 ---
