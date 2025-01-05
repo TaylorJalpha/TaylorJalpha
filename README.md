@@ -21,7 +21,7 @@ An experienced Product Manager (PMC) (PLC) with a solid technical foundation
 ### Technical Proficiency
 
 - Backend Development: Ruby on Rails.
-- Frontend Development: Currently learning VueJS and NuxtJS, experience across the most front-end frameworks - both as a manager and through my development efforts over the years.
+- Frontend Development: Currently learning VueJS and NuxtJS and have experience across the most common front-end frameworks - both as a manager and through my development efforts over the years.
 - Mobile Development: Experience with Dart/Flutter, and extensive management-based experience with native IOS/ Android.
 - Cloud Architecture: Actively pursuing the AWS Solutions Architect– Associate cert to validate and expand technical expertise in cloud architecture, with a focus on advanced cloud strategies for scaling and infrastructure. Several years of prior AWS experience and extensive knowledge of Heroku, Google GCP, and Microsoft Azure; Design and implement scalable, efficient, and reliable cloud solutions 
 - Full-Stack: Strong grasp of complete application architectures and business logic enabling better product decisions and smoother collaboration with ENG, data science, and research teams.
