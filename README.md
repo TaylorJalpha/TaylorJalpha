@@ -12,7 +12,7 @@ An experienced Product Manager (PMC) (PLC) with a solid technical foundation
 
 - Led cross-functional teams, fostering collaboration between technical, design, and business stakeholders across diverse industries, including fintech, blockchain, outsourced software development, and health tech.
 - Shape product strategy by aligning user needs, technical feasibility, and business objectives.
-- Expert-level design experience with a focus on Figma; prototyping, customer journey maps, and wireframes. 
+- Expert-level design experience with a focus on Figma; UI/UX, prototyping, customer journey maps, and wireframes. 
 - Implement data-driven decision-making through product discovery, user research, and data analysis.
 - Drive continuous product improvement using agile methodologies, comms strategies, systems innovation, and rapid feedback loops.
 - Experienced in roadmapping, business modeling, pricing, unit economics, team development, prioritization, process implementation, product analytics, product marketing, and go-to-market strategies.
