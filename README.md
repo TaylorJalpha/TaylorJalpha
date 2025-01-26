@@ -1,26 +1,17 @@
 
   
 <h1 align="center">
-  👋 Hello, I'm Taylor J. Ferguson<br> 
-  Product Manager | Strong Technical Foundation | Customer-obsessed
+  Hello, I'm Taylor J. Ferguson<br> 
+  Certified Product Manager | Strong Technical Foundation | Customer-obsessed
 </h1>
 
 
 ## 🌄 About Me:
 
- **Product Manager (PMC)(PLC)** with core web development experience, combining strategic thinking with technical knowledge. With a proven track record in leading cross-functional teams, I bridge the gap between business, design, and engineering stakeholders. 
+ **certified Product Manager (PMC)(PLC)** with core web development experience, combining strategic thinking with technical knowledge. With a proven track record in leading cross-functional teams, I bridge the gap between business, design, and engineering stakeholders. 
 
-### Core Competencies:
-- **Product Strategy & Roadmapping:** Aligning user needs, business objectives, and technical feasibility- Rigorous prioritization. 
-- **UI/UX Design:** Expertise in Figma, prototyping, wireframing, and customer journey mapping.
-- **Agile Product Development:** Data-driven decision-making and continuous product improvement– Product discovery, user research, and data analysis.
-- **Cross-Functional Leadership:** Managing teams in diverse industries, focused on **FinTech, Blockchain, HealthTech,** and more.
+ 
 
-### Technical Expertise:
-- **Backend:** Ruby on Rails
-- **Frontend:** VueJS, NuxtJS (Learning), and experience with multiple front-end frameworks.
-- **Mobile:** Dart/Flutter, Native iOS/Android management-based experience.
-- **Cloud:** AWS Solutions Architect- Associate (WIP), Heroku, GCP, Azure
 
 
 ---
