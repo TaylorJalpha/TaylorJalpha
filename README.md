@@ -2,7 +2,7 @@
   
 <h1 align="left">
   Hello, I'm Taylor J. Ferguson<br> 
-  Certified Product Manager | Strong Technical Foundation | Customer-obsessed
+  
 </h1>
 
 
