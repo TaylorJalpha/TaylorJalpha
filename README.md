@@ -8,7 +8,7 @@
 
 ## 🌄 About Me:
 
- **Background in Product Manager (PMC)(PLC)** with core web development experience, combining strategic thinking with technical knowledge. With a proven track record in leading cross-functional teams, I bridge the gap between business, design, and engineering stakeholders. 
+ *With a background in Technical Product Management (PMC)(PLC), I possess core web development experience. My expertise combines strategic creative thinking with technical knowledge and execution. I have a proven track record of leading cross-functional teams, bridging the gap between business, design, and engineering stakeholders. 
 
  
 
