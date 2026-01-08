@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello, I'm Taylor J. Ferguson</h1>
 
 ## About Me
-As a **Technical Product Manager** with a strong technical foundation, bridging the gap between **strategy and technical execution**. My background spans **product management**, **frontend development**, and **technical leadership**, allowing me to drive innovation across diverse verticals and business models. 
+A **Technical Product Manager** with a strong foundation across web, mobile, and decentralized ledger development, briding the gap between engineering, product, and design using a hypothesis-based approach to product developmen. 
 
 
 ---
