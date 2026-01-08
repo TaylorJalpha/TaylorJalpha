@@ -1,9 +1,8 @@
 <h1 align="left">👋 Hello, I'm Taylor J. Ferguson</h1>
 
 ## About Me
-As a **Technical Product Manager** with a strong foundation in **web and mobile development**, I bridge the gap between **strategy and execution**. My background spans **product management**, **frontend development**, and **technical leadership**, allowing me to drive innovation across diverse verticals and business models.
+As a **Technical Product Manager** with a strong technical foundation, bridging the gap between **strategy and technical execution**. My background spans **product management**, **frontend development**, and **technical leadership**, allowing me to drive innovation across diverse verticals and business models. 
 
-I blend **strategic thinking**, **creative problem-solving**, and **technical expertise** to develop products that address user pain points, ensure technical feasibility, and have a positive business impact. I’ve successfully led cross-functional teams of engineers, designers, and data professionals, effectively translating complex requirements into actionable roadmaps and measurable outcomes that drive revenue and high customer satisfaction.
 
 ---
 
@@ -11,11 +10,6 @@ I blend **strategic thinking**, **creative problem-solving**, and **technical ex
 - 🚀 [**Portfolio Website**](https://www.taylorferguson.xyz/)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/taylor-ferguson-57826660/)
 
----
-
-### Technical Background Overview
-
-Experience across major stacks and languages as a product manager (React, Swift, React Native, etc), and experience building personally with Rails, HTML/CSS, AWS/Heroku, Vue/Nuxt, React, Flutter, and more, but I know my limitations - I'm always learning!
 
 ---
 
