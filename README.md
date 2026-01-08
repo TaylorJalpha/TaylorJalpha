@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello, I'm Taylor J. Ferguson</h1>
 
 ## About Me
-A **Technical Product Manager** with a strong foundation across web, mobile, and decentralized ledger development, briding the gap between engineering, product, and design using a hypothesis-based approach to product developmen. 
+A **Technical Product Manager** with a strong foundation across web, mobile, and decentralized ledger development, briding the gap between engineering, product, and design using a hypothesis-based approach to product development.
 
 
 ---
